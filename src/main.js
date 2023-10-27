@@ -1,4 +1,4 @@
-const alunos = [
+let alunos = [
     {
         nome: "Matheus", nota: "8,0"
     },
